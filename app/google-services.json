@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561482490982",
+    "firebase_url": "https://loginandregistrationapp-2583e.firebaseio.com",
+    "project_id": "loginandregistrationapp-2583e",
+    "storage_bucket": "loginandregistrationapp-2583e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561482490982:android:f11e1b242a771ce0d3f9a7",
+        "android_client_info": {
+          "package_name": "com.example.loginandregistrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561482490982-4ghspt6chtrsq8msiov7vvq0a0e5env8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDs74VFFMfIxgjLk26qHAD9yl8mB0W0PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561482490982-4ghspt6chtrsq8msiov7vvq0a0e5env8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
